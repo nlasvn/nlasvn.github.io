@@ -406,8 +406,8 @@ audio::-webkit-media-controls-time-remaining-display {
 
 .flip-card {
   background-color: transparent;
-  width: 50vh;
-  height: 70vh;
+  width: 60vh;
+  height: 75vh;
   perspective: 1000px; /* Para ter um efeito 3d */
 }
 
